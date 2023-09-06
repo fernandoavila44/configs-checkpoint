@@ -39,4 +39,4 @@ eureka:
 
 queue:
   persona:
-    name: TestQueue
+    name: Serie-Queue
