@@ -31,3 +31,7 @@ eureka:
     lease-expiration-duration-in-seconds: 10
     hostname: localhost
     instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}}
+
+queue:
+  persona:
+    name: TestQueue
