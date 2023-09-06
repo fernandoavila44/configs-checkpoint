@@ -42,4 +42,4 @@ eureka:
 
 queue:
   persona:
-    name: TestQueue
+    name: Movie-Queue
