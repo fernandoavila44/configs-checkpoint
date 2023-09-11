@@ -38,5 +38,5 @@ eureka:
 
 
 queue:
-  persona:
+  serie:
     name: Serie-Queue
