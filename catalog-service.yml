@@ -9,7 +9,7 @@ spring:
       version: 4.0.2
   data:
     mongodb:
-      database: test
+      database: catalogdb
       port: 27018
   rabbitmq:
     username: guest
